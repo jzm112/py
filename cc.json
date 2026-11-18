@@ -1,0 +1,238 @@
+{
+    "spider": "./CustomSpider.jar",
+    "wallpaper": "",
+    "logo": "",
+    "sites": [
+        {
+            "key": "柳州丈母",
+            "name": "柳州丈母",
+            "type": 3,
+            "api": "./pyh/柳州丈母.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "麻豆影院",
+            "name": "麻豆影院",
+            "type": 3,
+            "api": "./pyh/麻豆影院.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "善良的小姨子",
+            "name": "善良的小姨子",
+            "type": 3,
+            "api": "./pyh/善良的小姨子.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "绅士影视",
+            "name": "绅士影视",
+            "type": 3,
+            "api": "./pyh/绅士影视.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "私房研究所",
+            "name": "私房研究所",
+            "type": 3,
+            "api": "./pyh/私房研究所.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "糖豆",
+            "name": "糖豆",
+            "type": 3,
+            "api": "./pyh/糖豆.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "有料",
+            "name": "有料",
+            "type": 3,
+            "api": "./pyh/有料.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "18av四百个分类",
+            "name": "18av四百个分类",
+            "type": 3,
+            "api": "./pyh/18av四百个个分类.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "51暗网",
+            "name": "51暗网",
+            "type": 3,
+            "api": "./pyh/51暗网.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "51吃瓜",
+            "name": "51吃瓜",
+            "type": 3,
+            "api": "./pyh/51吃瓜.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "51吸瓜动态版",
+            "name": "51吸瓜动态版",
+            "type": 3,
+            "api": "./pyh/51吸瓜动态版.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "74P福利图",
+            "name": "74P福利图",
+            "type": 3,
+            "api": "./pyh/74P福利图.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "91JAV最终版",
+            "name": "91JAV最终版",
+            "type": 3,
+            "api": "./pyh/91JAV最终版.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "91成人短剧",
+            "name": "91成人短剧",
+            "type": 3,
+            "api": "./pyh/91成人短剧.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "91吃瓜",
+            "name": "91吃瓜",
+            "type": 3,
+            "api": "./pyh/91吃瓜.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "91网爆黑料",
+            "name": "91网爆黑料",
+            "type": 3,
+            "api": "./pyh/91网爆黑料 .py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "911爆料網",
+            "name": "911爆料網",
+            "type": 3,
+            "api": "./pyh/911爆料網.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "2048成人短剧",
+            "name": "2048成人短剧",
+            "type": 3,
+            "api": "./pyh/2048成人短剧.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "py_51吃瓜",
+            "name": "py_51吃瓜",
+            "type": 3,
+            "api": "./pyh/py_51吃瓜🔞.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "py_Phb",
+            "name": "py_Phb",
+            "type": 3,
+            "api": "./pyh/py_Phb🔞.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "py_Xhm",
+            "name": "py_Xhm",
+            "type": 3,
+            "api": "./pyh/py_Xhm🔞.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "py_Xvd",
+            "name": "py_Xvd",
+            "type": 3,
+            "api": "./pyh/py_Xvd🔞.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "tun",
+            "name": "tun",
+            "type": 3,
+            "api": "./pyh/tun(11).py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "xduanju",
+            "name": "xduanju",
+            "type": 3,
+            "api": "./pyh/xduanju.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "各种豆采集",
+            "name": "各种豆采集",
+            "type": 3,
+            "api": "./pyh/各种豆采集.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "成人B站",
+            "name": "成人B站",
+            "type": 3,
+            "api": "./pyh/成人B站.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "成人直播",
+            "name": "成人直播",
+            "type": 3,
+            "api": "./pyh/成人直播.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "暗黑蜜桃",
+            "name": "暗黑蜜桃",
+            "type": 3,
+            "api": "./pyh/暗黑蜜桃.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "艾里冠希",
+            "name": "艾里冠希",
+            "type": 3,
+            "api": "./pyh/艾里冠希.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "绝色4k",
+            "name": "绝色4k",
+            "type": 3,
+            "api": "./pyh/绝色4k.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "老四",
+            "name": "老四",
+            "type": 3,
+            "api": "./pyh/老四.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "黄色仓库",
+            "name": "黄色仓库",
+            "type": 3,
+            "api": "./pyh/黄色仓库.py",
+            "genre": "shortdrama"
+        },
+        {
+            "key": "黄豆短剧",
+            "name": "黄豆短剧",
+            "type": 3,
+            "api": "./pyh/黄豆短剧.py",
+            "genre": "shortdrama"
+        }
+    ]
+}
